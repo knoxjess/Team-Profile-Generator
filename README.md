@@ -42,13 +42,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Mock-Up
-
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
-
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
-
-The styling in the image is just an example, so feel free to add your own.
+[Untitled_ Feb 24, 2023 2_38 PM.webm](https://user-images.githubusercontent.com/110634800/221287891-3c45b651-6ab2-445b-ae8a-1cdf6b851eab.webm)
 
 ## Getting Started
 
@@ -184,7 +178,7 @@ This Challenge is graded based on the following criteria:
 You are required to submit the following for review:
 
 * A walkthrough video that demonstrates the functionality of the application and passing tests.
-[Untitled_ Feb 24, 2023 2_38 PM.webm](https://user-images.githubusercontent.com/110634800/221287566-6c2be953-9b10-4820-ab78-ab425bca0bc3.webm)
+
 
 * A sample HTML file generated using your application.
 
